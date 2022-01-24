@@ -1,1 +1,19 @@
 /*https://github.com/James-Bedford/css-drill.git */
+
+body {
+  font-style: times;
+  background-color: rgb(172, 159, 159);
+}
+.boxes {
+  color: blanchedalmond;
+}
+h2,
+p {
+  text-align: center;
+  text-decoration: none;
+}
+a {
+  text-align: center;
+  text-decoration: none;
+  color: red;
+}
