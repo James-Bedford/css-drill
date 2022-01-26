@@ -53,4 +53,47 @@ span {
   height: 50px;
   border-radius: 50px;
   background-color: rebeccapurple;
+  bottom: -4rem;
+  left: 9rem;
+  position: relative;
+}
+h1 {
+  color: #ff6600;
+}
+.original {
+  color: #b3ff00;
+  /*font-size: 1.5rem; */
+}
+
+.additional {
+  color: #ff0066;
+  /*font-size: 1.5rem; */
+}
+#rank1 {
+  color: red;
+}
+#rank2 {
+  color: gray;
+}
+#rank3 {
+  color: bisque;
+}
+#rank4 {
+  color: darkslategrey;
+}
+#rank5 {
+  color: dodgerblue;
+}
+ul {
+  color: rgb(80, 45, 45);
+}
+.star {
+  color: yellow;
+}
+#wars {
+  color: ghostwhite;
+}
+.squ {
+  color: black;
+  border: 2px solid black;
 }
